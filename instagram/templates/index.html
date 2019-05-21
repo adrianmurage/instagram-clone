@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html>
 
@@ -14,13 +15,13 @@
 </head>
 
 <body>
-    <div class="login-clean">
+    <div class="login-clean"> 
         <form method="post">
             <h2 class="sr-only">Login Form</h2>
             <div class="illustration">
                 <!-- <div class="well form-error-message"><span>Username or password incorrect </span>
                 </div> -->
-                <img src="/static/img/logo.jpg">
+                <img src="{% static 'images/logo.jpg' %}">
             </div>
             <div class="form-group" style="position:relative;">
                 <input class="form-control" type="email" name="email" placeholder="Email">
