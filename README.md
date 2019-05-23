@@ -4,6 +4,12 @@
 
 #### By **[mainamurage](https://github.com/mainamurage)**
 
+
+### Screenshot
+
+![Image](https://ucarecdn.com/1c92bdc6-9795-4c18-827e-12aa40b4916a/)
+
+
 ### Description
 
 This is a minimal imitation of the popular social network Instagram's web version of the app.It mimics the following/follower system, image uploads and liking and unliking images.
