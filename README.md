@@ -4,7 +4,7 @@
 
 #### By **[mainamurage](https://github.com/mainamurage)**
 
-###Description
+### Description
 
 This is a minimal imitation of the popular social network Instagram's web version of the app.It mimics the following/follower system, image uploads and liking and unliking images.
 
