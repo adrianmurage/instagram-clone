@@ -73,7 +73,7 @@ We use [Heroku](https://www.heroku.com/home) for versioning.
 
 ## Authors
 
-* **mainamurage** email:adrianmaina21@gmail.com
+* **mainamurage** email:adrianmurage21@gmail.com
 
 
 
