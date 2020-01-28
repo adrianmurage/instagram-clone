@@ -81,6 +81,3 @@ We use [Heroku](https://www.heroku.com/home) for versioning.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
-## Acknowledgments
-
-* [HowCode](https://github.com/howCodeORG/howCode-Instragram)
